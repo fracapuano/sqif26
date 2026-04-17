@@ -1,0 +1,8 @@
+numpy
+gymnasium
+jax
+jaxlib
+rich
+scipy
+matplotlib
+wandb
